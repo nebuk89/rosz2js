@@ -28,3 +28,9 @@ parser.parse('/absolute/path/to/battlescribe/rosterfile.rosz').then((output) => 
 });
 ```
 
+## Dependabot Configuration
+
+This repository uses Dependabot to automatically check for updates to npm dependencies. Dependabot helps keep your dependencies up-to-date, which can improve security and stability.
+
+The Dependabot configuration file is located at `.github/dependabot.yml`. The configuration is set to check for updates to npm dependencies daily.
+
