@@ -21,7 +21,7 @@
   ],
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
-    "@commitlint/config-conventional": "^9.1.2",
+    "@commitlint/config-conventional": "^19.6.0",
     "@types/jest": "^26.0.7",
     "@types/unzipper": "^0.10.3",
     "@types/xml2js": "^0.4.5",
